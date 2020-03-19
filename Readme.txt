@@ -1,3 +1,4 @@
+Tutorial Link: https://www.youtube.com/playlist?list=PL6n9fhu94yhVowClAs8-6nYnfsOTma14P
 1. Blazor 
 	Blazor is a free and open-source web framework that enables developers to create web apps using C# and HTML.
 	Blazor can run C# code on web browsers using Web Assembly.
