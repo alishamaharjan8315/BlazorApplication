@@ -1,0 +1,7 @@
+/.vs/BlazorApplication/DesignTimeBuild/*.dtbcache
+/.vs/BlazorApplication/config/applicationhost.config
+/.vs/BlazorApplication/v16/*.suo
+/.vs/BlazorApplication/v16/Server/sqlite3/db.lock
+/.vs/BlazorApplication/v16/Server/sqlite3/storage.ide
+/.vs/BlazorApplication/v16/Server/sqlite3/storage.ide-shm
+/.vs/BlazorApplication/v16/Server/sqlite3/storage.ide-wal
